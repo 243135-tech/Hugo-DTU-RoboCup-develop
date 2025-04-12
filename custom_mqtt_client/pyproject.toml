@@ -1,0 +1,10 @@
+[project]
+name = "custom_mqtt_client"
+version = "0.1.0"
+description = ""
+authors = []
+
+[tool.autopep8]
+max_line_length = 140
+indent_size = 4
+ignore = "E501, E302"

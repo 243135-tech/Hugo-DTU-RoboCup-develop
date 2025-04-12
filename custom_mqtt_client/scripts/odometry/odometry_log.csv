@@ -1,0 +1,1 @@
+timestamp,motor_vel_left,motor_vel_right,wheel_vel_left,wheel_vel_right,pose_x,pose_y,pose_heading,pose_tilt,trip_dist,trip_heading,trip_time_passed,total_dist,total_heading,total_time_passed
